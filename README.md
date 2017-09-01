@@ -1,2 +1,3 @@
 # Hello_world
-a repository for testing
+Hi everyone!
+I'm Charles and new to programming and GitHub
